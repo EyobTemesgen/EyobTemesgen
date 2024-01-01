@@ -1,9 +1,10 @@
 ## Hey 👋, I'm [Eyob Temesgen](https://github.com/EyobTemesgen/)
-# 💫 About Me:
- - 🌱 I’m looking to collaborate on **JavaScript, React, Redux, Ruby and Ruby on Rails**<br><br>
- - 💬 Ask me about **React, typescript, History and Football**<br><br>
- - 📫 How to reach me **eyobatem@gmail.com**<br><br> 
- -  📄 Learn about my experiences (4+ years of remote development)<br><br> 
+## 💫 About Me:
+- 🌱 I’m looking to collaborate on **JavaScript, React, Redux, Node js, Next js**.
+- 💬 Ask me about **React, TypeScript, History, and Football**.
+- 📫 How to reach me: **eyobatem@gmail.com**.
+- 📄 Learn about my experiences: **4+ years of remote development**.
+
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
