@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Addis Tsega](https://github.com/Aseadd/)
+## Hey 👋, I'm [Eyob Temesgen](https://github.com/EyobTemesgen/)
 # 💫 About Me:
  - 🌱 I’m looking to collaborate on **JavaScript, React, Redux, Ruby and Ruby on Rails**<br><br>
  - 👨‍💻 Some of my projects are available at [my portfolio](https://aquamarine-travesseiro-3c9d60.netlify.app/)<br><br>
