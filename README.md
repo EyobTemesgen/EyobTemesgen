@@ -1,9 +1,11 @@
 ## Hey 👋, I'm [Eyob Temesgen](https://github.com/EyobTemesgen/)
 ## 💫 About Me:
 - 🌱 I’m looking to collaborate on **JavaScript, React, Redux, Node js, Next js**.
+- 🔭 I’m currently working at Excellerent Technology Solutions
 - 💬 Ask me about **React, TypeScript, History, and Football**.
 - 📫 How to reach me: **eyobatem@gmail.com**.
 - 📄 Learn about my experiences: **4+ years of remote development**.
+- ⚡ Fun fact: I like cracking jokes with people 😁
 
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
